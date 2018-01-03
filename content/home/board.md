@@ -65,8 +65,8 @@ Insect-transmitted pathogen and bacteriology
 <img src="/img/editors/bardin.jpg" class=editor>
 <h4><a target = "_blank"  href = "https://www.researchgate.net/profile/Marc_Bardin">Marc Bardin</a></h4>
 <div class=small>
-French National Institute for Agricultural Research -
-Biocontrol an fungal Pathogens
+French National Institute for Agricultural Research, France -
+Biocontrol and fungal pathogens
 </div>
 </div>
 <div class="column">
