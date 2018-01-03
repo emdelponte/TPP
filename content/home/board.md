@@ -57,8 +57,8 @@ Mycology, post-harvest and biocontrol
     <img src = "/img/editors/almeida.jpg" class=editor>
 <h4><a target = "_blank"  href = "https://nature.berkeley.edu/almeidalab/members/rodrigo-almeida/">Rodrigo Almeida</a> </h4>
 <div class=small>
-University of Berkeley, USA - 
-Insect-transmitted pathogen and bacteriology
+University of California, Berkeley, USA - 
+Insect-transmitted pathogens and bacteriology
 </div>
 </div>
 <div class="column">
