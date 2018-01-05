@@ -153,7 +153,7 @@ logo = "logo_tpp.png"
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["custom.css"]
   custom_js  = []
 
   # Publication types.
@@ -260,13 +260,13 @@ logo = "logo_tpp.png"
   name = "Access to articles"
   url = "#read"
   weight = 30
-  pre = "<i class='fa  fa-file-archive-o'></i> "
+# pre = "<i class='fa  fa-file-archive-o'></i> "
   
 [[menu.main]]
   name = "News & Blog"
   url = "#posts"
   weight = 50
-  pre = "<i class='fa  fa-comments-o'></i>"
+ # pre = "<i class='fa  fa-comments-o'></i>"
 
 
 
@@ -274,7 +274,7 @@ logo = "logo_tpp.png"
   name = "Editorial Board"
   url = "#board"
   weight = 40
-  pre = "<i class='fa  fa-pencil-square-o'></i>"
+  #pre = "<i class='fa  fa-pencil-square-o'></i>"
 
 
 
