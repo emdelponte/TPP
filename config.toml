@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "default"
 
   # Your details.
  name = "Tropical Plant Pathology"
@@ -245,28 +245,28 @@ logo = "logo_tpp.png"
 
 
 [[menu.main]]
-  name = "About the journal"
+  name = "About TPP"
   url = "#about"
   weight = 10
 
 [[menu.main]]
-  name = "Submit a manuscript"
+  name = "Submission"
   url = "#submit"
   weight = 20
   pre = "<i class='fa  fa-upload'></i> "
     
   
 [[menu.main]]
-  name = "Access to articles"
+  name = "Articles"
   url = "#read"
   weight = 30
-# pre = "<i class='fa  fa-file-archive-o'></i> "
+ pre = "<i class='fa  fa-file-archive-o'></i> "
   
 [[menu.main]]
   name = "News & Blog"
   url = "#posts"
   weight = 50
- # pre = "<i class='fa  fa-comments-o'></i>"
+  pre = "<i class='fa  fa-comments-o'></i>"
 
 
 
@@ -274,7 +274,7 @@ logo = "logo_tpp.png"
   name = "Editorial Board"
   url = "#board"
   weight = 40
-  #pre = "<i class='fa  fa-pencil-square-o'></i>"
+  pre = "<i class='fa  fa-user-circle-o'></i>"
 
 
 

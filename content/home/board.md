@@ -42,7 +42,7 @@ Universidade Federal de Viçosa, Brazil</div>
     </div>
   </div>
   <div class = row><br><br><center>
-    <h2>Section Editors</h2>Our team of section editors is composed of twenty-three Editors covering most fields of studies in Plant Pathology and representing 11 countries (last name alphabetical list)<br><br><br></center>
+    <h2>Section Editors</h2>Our team of section editors is composed of 24 Editors covering most fields of studies in Plant Pathology and representing 11 countries (last name alphabetical list)<br><br><br></center>
     </div>
 <div class="row">
    <div class="column">
