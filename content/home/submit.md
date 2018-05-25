@@ -22,9 +22,10 @@ Prior to submitting your manuscript, we ask you to please do the following:
 <li>  Choose among our four article types: Original Article, Short Communication, Review (contact us first) and Letter to the Editor.
 
 <li> Follow our formatting standards when preparing the manuscript and associated files such as figures and supplemental materials. Figures can be embeded in text editor for review.
-<a href = "http://www.editorialmanager.com/tppa/default.aspx"><img src = "/img/em-logo.png" style = "margin:20px" width=140px align=right></a>
 
-<li> Click on the Editorial Manager logo  or <a href = "http://www.editorialmanager.com/tppa/default.aspx">click here</a> to sign up (if first access) and/or login to begin submission</a>.<br><br>
+<li> Click on the Editorial Manager logo belowor <a href = "http://www.editorialmanager.com/tppa/default.aspx">here</a> to sign up (if first access) and/or login to begin submission</a>.<br>
+<a href = "http://www.editorialmanager.com/tppa/default.aspx"><img src = "/img/em-logo.png" style = "margin:20px" width=140px></a>
+<br>
 
 </ol>
 </blockquote>

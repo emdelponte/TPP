@@ -9,7 +9,7 @@ title = "News & Blog"
 subtitle = "General announcements and blog posts on editorial-related topics"
 
 # Order that this section will appear in.
-weight = 80
+weight = 20
 
 # Filter posts by tag.
 #  By default, show all recent posts.

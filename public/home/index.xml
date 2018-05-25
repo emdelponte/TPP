@@ -8,7 +8,70 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 14 Oct 2017 23:00:00 -0300</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/hero/</link>
+      <pubDate>Sat, 14 Oct 2017 23:00:00 -0300</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Tropical Plant Pathology (TPP, abbrev. Trop Plant Pathol), is the International Journal of the Brazilian Phytopathological Society. TPP is published since 1976, initially as Fitopatologia Brasileira (Brazilian Phytopathology). TPP publishes research on fundamental and applied aspects of plant diseases of interest to international audience and of concern to agricultural, forest and ornamental crops from tropical and subtropical environments.  Impact Factor (JCR 2016): 0.81 IF 2016 Speed: 39 days from submission to first decision</description>
+    </item>
+    
+    <item>
+      <title>News &amp; Blog</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Submit a manuscript</title>
+      <link>/home/submit/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/submit/</guid>
+      <description>Prior to submitting your manuscript, we ask you to please do the following:
+   Read carefully our Instructions for Authors and check whether your research fits scope and conforms to our policy.  Choose among our four article types: Original Article, Short Communication, Review (contact us first) and Letter to the Editor.  Follow our formatting standards when preparing the manuscript and associated files such as figures and supplemental materials.</description>
+    </item>
+    
+    <item>
+      <title>Access to articles</title>
+      <link>/home/read/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/read/</guid>
+      <description> 
+Read and download our current collection at SpringerLink
+   Full access to our previous SciELO collection
+Fito Bras (2001-07)
+TPP (2008-14)     Historical Fitopatol. Bras. collection Forthcoming!   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/board/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/board/</guid>
+      <description>Editorial Board An Editor-in-Chief, two Senior Editors and 24 Section Editors representing 11 countries  Emerson Del Ponte Editor-in-Chief Universidade Federal de Viçosa, Brazil   Jorge Badel Senior Editor
+Universidade Federal de Viçosa, Brazil  F Murilo Zerbini Senior Editor
+Universidade Federal de Viçosa, Brazil    Section EditorsOur team of section editors is composed of 24 Editors covering most fields of studies in Plant Pathology and representing 11 countries (last name alphabetical list)</description>
+    </item>
     
   </channel>
 </rss>

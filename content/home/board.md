@@ -128,16 +128,24 @@ Universidade Estadual de Londrina, Brazil - Breeding for host resistance
 University of Kentucky, USA - <br>Plant virology
 </div>
   </div>
-<div class="column">
+  
+  
+  <div class="column">
     <img src = "/img/editors/zhang-hao.jpg" class=editor>
 <h4><a target = "_blank"  href = " https://www.researchgate.net/profile/Hao_Zhang24">Zhang Hao</a></h4>
 <div class=small>
 Chinese Acad. of Agric. Sci., China- Fungicide resistance, fungal genomics, population biology and molecuar diagnosis
 </div>
 </div>
+
+<div class="column">
+    <img src = "/img/editors/denita.jpg" class=editor>
+<h4><a target = "_blank"  href = "http://epp.tennessee.edu/people/directory/dr-denita-hadziabdic-guerry/">Denita Hadziabdic Guerry</a></h4>
+<div class=small>
+University of Tennessee, USA - Forest pathology, population biology, host-pathogen-vector Interactions 
 </div>
-<br>
-<div class="row">
+</div>
+
 <div class="column">
 <img src="/img/editors/hofte.jpg" class=editor>
 <h4><a target = "_blank"  href = "https://telefoonboek.ugent.be/en/people/801000753425">Monica Höfte</a></h4>
@@ -166,9 +174,7 @@ Universidade de Brasília, Brazil - Plant-pathogen interaction, Functional genom
  Instituto de Agric. Sostenible, Spain - Integrated disease management, quantitative epidemiology and soil-borne diseases
     </div>
   </div>
-  </div>
-<br>
-<div class="row">
+
  <div class="column">
   <img src = "/img/editors/paulajr.jpg" class=editor>
   <h4><a target = "_blank"  href = "http://lattes.cnpq.br/7899276097018876">Trazilbo de Paula Jr</a></h4>
@@ -189,6 +195,8 @@ Universidade de Brasília, Brazil - Plant-pathogen interaction, Functional genom
 Universidade de Brasília, Brazil - Mycology/Phylogeny
   </div>
 </div>
+</div><br>
+<div class="row">
 <div class="column">
     <img src = "/img/editors/shamoun.jpg" class=editor>
     <h4><a target = "_blank"  href = "https://cfs.nrcan.gc.ca/employes/vue/sshamoun">Simon Shamoun</a></h4>
@@ -216,6 +224,8 @@ University of Florida, USA - Forest pathology
 University of Southern Queensland, Australia - Quantitative epidemiology and modeling and rice diseases
 </div>
   </div>
+  </div><br>
+<div class="row">
 <div class="column">
     <img src = "/img/editors/vaillancourt.jpg" class=editor>
 <h4><a target = "_blank"  href = "https://plantpathology.ca.uky.edu/person/lisa-vaillancourt">Lisa Vaillancourt</a></h4>
