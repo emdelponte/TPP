@@ -85,7 +85,7 @@ Universidad de Buenos Aires, Argentina - Disease managment field crops and chemi
     <img src = "/img/editors/priscila-chaverri.jpg" class=editor>
  <h4><a target = "_blank"  href = "https://psla.umd.edu/people/dr-priscila-chaverri">Priscila Chaverri</a></h4>
 <div class=small>
-University of Maryland, USA - Mycology/Systematics and evolution
+University of Maryland (USA) / University of Costa Rica (Costa Rica) - Mycology/Systematics and evolution
 </div>
 </div>
 
