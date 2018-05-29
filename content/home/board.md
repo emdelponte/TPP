@@ -18,11 +18,11 @@ weight = 60
    <div class="column">
     
     <h1>Editorial Board</h1>
-    An Editor-in-Chief, two Senior Editors and 24 Section Editors representing 11 countries
+    An Editor-in-Chief, two Senior Editors and 26 Section Editors representing 11 countries
     </div>
    <div class="column">
     <img src = "/img/editors/delponte.jpg" class=editor>
-    <h4><a target = "_blank" href = " https://delpontelab.netlify.com/pages/emerson-delponte/">Emerson Del Ponte</a></h4>
+    <h4><a target = "_blank" href = " https://delpontelab.netlify.com/pages/emerson-delponte/">Emerson M. Del Ponte</a></h4>
         <div class=small>
       Editor-in-Chief
       <br>
@@ -79,6 +79,18 @@ Universidad de Buenos Aires, Argentina - Disease managment field crops and chemi
   </div>
 <br>
 <div class="row">
+
+
+<div class="column">
+    <img src = "/img/editors/priscila-chaverri.jpg" class=editor>
+ <h4><a target = "_blank"  href = "https://psla.umd.edu/people/dr-priscila-chaverri">Priscila Chaverri</a></h4>
+<div class=small>
+University of Maryland, USA - Mycology/Systematics and evolution
+</div>
+</div>
+
+
+
 <div class="column">
     <img src = "/img/editors/cunniffe.jpg" class=editor>
  <h4><a target = "_blank"  href = "https://www.plantsci.cam.ac.uk/directory/cunniffe-nik">Nik Cunniffe</a></h4>
@@ -92,12 +104,21 @@ University of Cambridge, UK - Quantitative epidemiology and mathematical modelin
 <div class=small>
 Universidade Federal de Pelotas, Brasil  - Physiology of the host pathogen interaction</div>
 </div>
+
+
+
 <div class="column">
 <img src="/img/editors/everhart.jpg" class=editor>
  <h4><a target = "_blank"  href = "https://everhart.unl.edu/sydney-everhart.html">Sydney Everhart</a></h4>
 <div class=small>
 University of Nebraska-Lincoln, USA - Population biology</div>
 </div>
+
+ </div>
+<br>
+<div class="row">
+
+
  <div class="column">
     <img src = "/img/editors/fernandez.jpg" class=editor>
     <h4><a target = "_blank"  href = "http://umr-ipme.ird.fr/annuaire2/diana-fernandez">Diana Fernandez</a></h4>
@@ -128,6 +149,9 @@ Universidade Estadual de Londrina, Brazil - Breeding for host resistance
 University of Kentucky, USA - <br>Plant virology
 </div>
   </div>
+   </div>
+<br>
+<div class="row">
   
   
   <div class="column">
@@ -160,6 +184,11 @@ Ghent University,  Belgium	- Biological control and induced resistance for plant
 Universidade Federal de Lavras, Brazil - Biological control and plant-microbe interaction
 </div>
   </div>
+   </div>
+<br>
+<div class="row">
+
+
 <div class="column">
     <img src = "/img/editors/miller.jpg" class=editor>
  <h4><a target = "_blank"  href = "https://www.researchgate.net/profile/Robert_Miller58">Robert Miller</a></h4>
@@ -174,7 +203,6 @@ Universidade de Brasília, Brazil - Plant-pathogen interaction, Functional genom
  Instituto de Agric. Sostenible, Spain - Integrated disease management, quantitative epidemiology and soil-borne diseases
     </div>
   </div>
-
  <div class="column">
   <img src = "/img/editors/paulajr.jpg" class=editor>
   <h4><a target = "_blank"  href = "http://lattes.cnpq.br/7899276097018876">Trazilbo de Paula Jr</a></h4>
@@ -188,6 +216,10 @@ Universidade de Brasília, Brazil - Plant-pathogen interaction, Functional genom
   Cornell University, USA - Disease management, Epidemiology, Nematology
   </div>
 </div>
+
+ </div>
+<br>
+<div class="row">
 <div class="column">
 <img src="/img/editors/pinho.jpg" class=editor>
  <h4><a target = "_blank"  href = "https://www.researchgate.net/profile/Danilo_Pinho">Danilo Pinho</a></h4>
@@ -195,8 +227,6 @@ Universidade de Brasília, Brazil - Plant-pathogen interaction, Functional genom
 Universidade de Brasília, Brazil - Mycology/Phylogeny
   </div>
 </div>
-</div><br>
-<div class="row">
 <div class="column">
     <img src = "/img/editors/shamoun.jpg" class=editor>
     <h4><a target = "_blank"  href = "https://cfs.nrcan.gc.ca/employes/vue/sshamoun">Simon Shamoun</a></h4>
@@ -217,6 +247,9 @@ University of Florida, USA - Forest pathology
 <div class=small>Instituto Agronômico de Campinas, Brazil - Bacteriology and Genomics of the host-pathogen interaction
 </div>
 </div>
+ </div>
+<br>
+<div class="row">
  <div class="column">
     <img src = "/img/editors/sparks.jpg" class=editor>
  <h4><a target = "_blank"  href = " https://staffprofile.usq.edu.au/Profile/Adam-Sparks">Adam Sparks</a></h4>
@@ -224,8 +257,6 @@ University of Florida, USA - Forest pathology
 University of Southern Queensland, Australia - Quantitative epidemiology and modeling and rice diseases
 </div>
   </div>
-  </div><br>
-<div class="row">
 <div class="column">
     <img src = "/img/editors/vaillancourt.jpg" class=editor>
 <h4><a target = "_blank"  href = "https://plantpathology.ca.uky.edu/person/lisa-vaillancourt">Lisa Vaillancourt</a></h4>
