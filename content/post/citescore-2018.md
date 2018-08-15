@@ -2,7 +2,7 @@
 date = 2018-08-16
 draft = false
 tags = ["Section Editors"]
-title = "TPP among the most rapidly growing journals based on CiteScore metrics  "
+title = "TPP among the most rapidly growing Plant Pathology journals based on CiteScore metrics  "
 summary = """
 A quick analysis of our citation impact metrics for all peer-reviewed research journals covered in Scopus showed TPP advancing four positions among eleven plant pathology journals.
 """
