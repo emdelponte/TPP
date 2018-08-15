@@ -8,7 +8,7 @@ date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 #title = "Editorial Board"
-#subtitle = "An Editor-in-Chief, two Senior Editors and 24 Section Editors representing 11 countries"
+#subtitle = "An Editor-in-Chief, two Senior Editors and 26 Section Editors representing 11 countries"
 
 # Order that this section will appear in.
 weight = 60
@@ -16,7 +16,7 @@ weight = 60
 +++
 <div class="row">
    <div class="column">
-    
+     
     <h1>Editorial Board</h1>
     An Editor-in-Chief, two Senior Editors and 26 Section Editors representing 11 countries
     </div>
@@ -42,7 +42,7 @@ Universidade Federal de Viçosa, Brazil</div>
     </div>
   </div>
   <div class = row><br><br><center>
-    <h2>Section Editors</h2>Our team of section editors is composed of 24 Editors covering most fields of studies in Plant Pathology and representing 11 countries (last name alphabetical list)<br><br><br></center>
+    <h2>Section Editors</h2>Our team of section editors is composed of 26 Editors covering most fields of studies in Plant Pathology and representing 11 countries (last name alphabetical list)<br><br><br></center>
     </div>
 <div class="row">
    <div class="column">

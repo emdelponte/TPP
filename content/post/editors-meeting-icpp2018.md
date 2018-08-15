@@ -1,5 +1,5 @@
 +++
-date = 2018-05-24
+date = 2018-08-15
 draft = false
 tags = ["Section Editors"]
 title = "Editorial board meeting during ICPP 2018, Boston "
