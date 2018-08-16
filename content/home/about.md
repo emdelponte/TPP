@@ -22,7 +22,9 @@ weight = 10
    
 Tropical Plant Pathology (TPP, abbrev. Trop Plant Pathol), is the International Journal of the <a target = "_blank" href = "http://www.sbfito.com.br">Brazilian Phytopathological Society</a>. TPP is published since 1976, initially as Fitopatologia Brasileira (Brazilian Phytopathology). TPP publishes research on fundamental and applied aspects of plant diseases of interest to international audience and of concern to agricultural, forest and ornamental crops from tropical and subtropical environments. <br><br>
 <center>
-Impact Factor (JCR 2016): 0.81 IF 2016 <br> Speed: 39 days <font size = 2.2em>from submission to first decision</font><br>
+Impact Factor JCR 2017: 0.784
+<br>
+Speed: 39 days <font size = 2.2em>from submission to first decision</font><br>
 
 <br>
 <a target = "_blank" href="https://twitter.com/TropPlantPathol">Follow us  <i class="fa fa-twitter-square fa-1x" aria-hidden="true"></i></a> |  
