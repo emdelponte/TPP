@@ -13,13 +13,12 @@ weight = 30
 
 +++
 
-Prior to submitting your manuscript, we ask you to please do the following:
+### Prior to submitting your manuscript, we ask you to please do the following:
 
-<blockquote>
 <ol>
-<li> Read carefully our <a href=https://www.edmgr.com/tppa/redirectToBanner.aspx?defaultTarget=AuthInstr.html> Instructions for Authors</a> and check whether your research fits scope and conforms to our policy.
+<li> Read carefully our <a href = "pages/instructions">Instructions for Authors</a> and check whether your research fits scope and conforms to our policy.
 
-<li>  Choose among our four article types: Original Article, Short Communication, Review (contact us first) and Letter to the Editor.
+<li>  Choose among the four article types: Original Article, Short Communication, Review (contact us first) and Letter to the Editor.
 
 <li> Follow our formatting standards when preparing the manuscript and associated files such as figures and supplemental materials. Figures can be embeded in text editor for review.
 
@@ -28,8 +27,6 @@ Prior to submitting your manuscript, we ask you to please do the following:
 <br>
 
 </ol>
-</blockquote>
-
 
 
 

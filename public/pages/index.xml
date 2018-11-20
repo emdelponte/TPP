@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Tropical Plant Pathology</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Tropical Plant Pathology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 -0200</lastBuildDate>
+    
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Instructions for Authors</title>
+      <link>/pages/instructions/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 -0200</pubDate>
+      
+      <guid>/pages/instructions/</guid>
+      <description>Last update: 20 November 2018 1. Scope
+Submissions must report original research that provides new insights into the etiology and epidemiology of plant disease as well as population biology of plant pathogens, host-pathogen interactions, physiological and molecular plant pathology, and strategies to promote crop protection.
+
+2. Manuscript submission
+ Submission of a manuscript implies that: 
+the work described has not been published before; it is not under consideration for publication anywhere else; its publication has been approved by all co-authors, if any, as well as by the responsible authorities – tacitly or explicitly – at the institute where the work has been carried out.</description>
+    </item>
+    
+  </channel>
+</rss>

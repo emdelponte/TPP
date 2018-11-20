@@ -254,6 +254,12 @@ logo = "logo_tpp.png"
   url = "#submit"
   weight = 25
   pre = "<i class='fa  fa-upload'></i> "
+  identifier = "Submission"
+  
+[[menu.main]] 
+  name = "Instructions for Authors"
+  url = "/pages/instructions"
+  parent = "Submission" 
     
   
 [[menu.main]]
