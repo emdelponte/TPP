@@ -15,15 +15,15 @@ We updated our [Instructions for Authors](/instructions) and prepared a list of 
 
 <ul>
 
-<li>Manuscripts should contain disease and/or plant pathogen data; please note that <i>first reports of plant diseases/pathogens are no longer accepted under any circumstances</I>.<br>
+<li>Manuscripts should contain **disease and/or plant pathogen data**; please note that <i>first reports of plant diseases/pathogens are no longer accepted under any circumstances</I>.<br>
 
-<li>Experiments should be repeated in time at least once, unless the research results are from surveys or of non-quantitative nature. Failure to adhere to our experimental and statistical considerations will be grounds for rejection.<br>
+<li>Experiments should be **repeated in time at least once**, unless the research results are from surveys or of non-quantitative nature. Failure to adhere to our experimental and statistical considerations will be grounds for rejection.<br>
 
-<li>Studies on screening or evaluation of efficacy of synthetic/natural products (fungicides, biocontrol agents, plant extracts, etc.) must include field data and provide additional information on modes of action. The latter requirement can be waived if the results are based on meta-analysis using multisite and multi-year datasets and contribute novel information for management. Studies on screening of pathogen populations for drug/fungicide resistance should include in vitro as well as molecular data.<br>
+<li>Studies on screening or evaluation of efficacy of synthetic/natural products (fungicides, biocontrol agents, plant extracts, etc.) must **include field data and provide additional information on modes of action**. The latter requirement may be waived if the results are based on meta-analysis using multisite and multi-year datasets and contribute novel information for management. Studies on screening of pathogen populations for drug/fungicide resistance should include in vitro as well as molecular data.<br>
 
-<li>Studies on screening of plant host genotypes for disease resistance should not be limited to ranking locally-adapted genotypes but provide sufficiently novel information on the mechanisms of resistance or other aspects of broader interest to the international plant pathology community.<br>
+<li>Studies on screening of plant host genotypes for disease resistance should **not be limited to ranking locally-adapted genotypes** but provide sufficiently novel information on the mechanisms of resistance or other aspects of broader interest to the international plant pathology community.<br>
 
-<li>Submissions must adhere to the manuscript formatting guidelines 
+<li>Submissions must adhere to the manuscript formatting guidelines. 
 
 <li>Authors should make sure the manuscript is written in good quality English. Non-native English speakers are encouraged to seek external language editing services if needed. </li></ul>
 
@@ -31,6 +31,7 @@ We updated our [Instructions for Authors](/instructions) and prepared a list of 
 
 Full documentation of the instructions can be found [here](/instructions/)
 
+Submit a manuscript [here](https://www.editorialmanager.com/tppa/default.aspx)
 
 
 
