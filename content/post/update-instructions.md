@@ -2,7 +2,7 @@
 date = 2018-12-02
 draft = false
 tags = ["Instructions", "Editorial policy"]
-title = "Updates to our editorial policy and instructions for authors"
+title = "Updates to our editorial policies and instructions for authors"
 summary = """
 We have made an important change to be effective in December 2018. We decided to not consider first reports of plant diseases/pathogens under any circumstances. We have also updated our Instructions for Authors. 
 """
