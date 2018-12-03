@@ -7,13 +7,16 @@ title = "Instructions for Authors"
 
 +++
 
-Last update: 20 November 2018
+Last update: 2 December 2018
 </p><br>
 <h2>1. Scope</h2>
 
-Submissions must report original research that provides new insights into the etiology and epidemiology of plant disease as well as population biology of plant pathogens, host-pathogen interactions, physiological and molecular plant pathology, and strategies to promote crop protection.
+Tropical Plant Pathology is an international journal devoted to publishing a wide range of research on fundamental and applied aspects of plant diseases of concern to agricultural, forest and ornamental crops from tropical and subtropical environments. 
+
+Submissions must report original research that provides new insights into the etiology and epidemiology of plant diseases as well as population biology of plant pathogens, host-pathogen interactions, physiological and molecular plant pathology, and strategies to promote crop protection.
 
 <br>
+
 <h2>2. Manuscript submission</h2>
 
 
@@ -43,6 +46,7 @@ Neither the publisher nor the society will not be held legally responsible shoul
 <li>Studies on screening of plant host genotypes for disease resistance should not be limited to ranking locally-adapted genotypes but provide sufficiently novel information on the mechanisms of resistance or other aspects of broader interest to the international plant pathology community.<br>
 
 <li>Submissions must adhere to the manuscript formatting guidelines - see more in this document: <a href="#manuscript-preparation-8">Manuscript preparation</a> and <a href="#references-11">References</a>.
+
 <li>Authors should make sure the manuscript is written in good quality English. Non-native English speakers are encouraged to seek external language editing services if needed. See also in this document: <a href="#english-language-support-18">English Language Support</a>.</li></ul>
 
 <br>
@@ -99,13 +103,13 @@ Reviews are normally by invitation. However, if you wish to submit one, send a p
 <h2>5. Submission and required files</h2>
 </p><ul>
 
-<li>For submitting a manuscript, the corresponding author, after having all files prepared (see below), submits the manuscript via the Editorial Manager Online system (http://www.edmgr.com/tppa).  <ul>
+<li>The corresponding author, having all files prepared (see below), should submit the manuscript via the Editorial Manager Online system (http://www.edmgr.com/tppa).  <ul>
 
 <li>Please note that at least three author-suggested reviewers are required to complete submission. These reviewers should be selected in an ethical and unbiased way. See <a href="https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574">here</a> general guidelines for selecting reviewers appropriately.  
 <li>For a new submission, a single file (.doc or .docx) containing the manuscript text, tables and figures is sufficient. There is no need, at this stage, to submit high quality figures (TIFF, PNG, etc.) or tables as separate files. 
-<li>Authors may opt to submit a cover letter in PDF format or include text of the letter in the specific field of the submission process. Do recall that a good cover letter can help to make a good first impression to your work. <a href="https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574">See here </a> guidelines on how to write a good letter.
+<li>Authors are encouraged to submit a cover letter in PDF format or include the text of the letter in the specific field during the submission process. Do recall that a nice cover letter can help to make a good first impression to your work. <a href="https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574">See here </a> guidelines on how to write a good letter.
 <li>Digital files of high quality images and graphs, maps,  etc. should be uploaded only at the last submission after the manuscript is fully revised and close to acceptance. In any case, the typesetting team will further contact authors if uploaded or embedded figures in the doc file are of poor quality.
-<li>Electronic Supplemental materials should be uploaded separately – see specific section.</li></ul>
+<li>Electronic Supplemental materials should be uploaded separately – see specific section below.</li></ul>
 </li></ul>
 <br>
 <h2>6. Pre-analysis workflow</h2>
@@ -131,7 +135,7 @@ These instructions should be used as a guideline/outline. Researchers should ide
 </p><ul>
 
 <li>When conducting observational or planned research choose the most appropriate hypothesis tests for categorical or continuous variables and/or characterize the variability (uncertainty) by means of confidence intervals. These procedures are required to provide evidence of the robustness and reproducibility of the research findings.
-<li>In <em>Material and Methods </em>describe details on how the data were collected including  sampling design and size, number of experimental units (replicates), randomization, blocking and balancing. <span style="text-decoration:underline;">It is imperative that all experiments are repeated at least once and that explanation is provided whether and how data from two experiments were combined for analysis</span>. For field experiments, at least two trials should be conducted. These can be two years/seasons or two distant sites (different environment) within a same year/season. Manuscripts without evidence of proper design and repetition in time will be rejected.
+<li>In <em>Material and Methods </em>describe details on how the data were collected including  sampling design and size, number of experimental units (replicates), randomization, blocking and balancing. <span style="text-decoration:underline;">It is imperative that all experiments are repeated at least once and which criteria was used to pool the data from two experiments for analysis</span>. For field experiments, at least two trials should be conducted. These can be two years/seasons or two distant sites (different environment) within a same year/season. Manuscripts without evidence of proper design and repetition in time will be rejected.
 <li>When analyzing the data, select the most appropriate inferential methods according to the number of groups compared (two or more), independence (non-paired or paired data), type of factor (quantitative or qualitative), and nature of the response variable (continuous, count, categorical or nominal).  <ul>
 
  <li>When comparing two groups, report <em>P</em>-values using proper t-tests (non-paired or paired) or the equivalent non-parametric tests if assumptions for parametric tests are not met. Alternatively, or additionally, provide 95% confidence intervals for visual inference or calculate the effect-size, in the form of absolute or standardized mean difference between treatments to facilitate interpretation and practical significance of the results. 
@@ -326,18 +330,8 @@ Arnold AE, Medjía LC, Kyllo D, Rojas EI, Maynard Z, Robbins N, Herre EA (2003) 
 <strong>Online reference<br>
 </strong>CONAB. Cana-de-açúcar, safra 2006 -2007. Available at: http://www.conab.gov.br/BoletimCana.pdf.  Accessed on October 12, 2008
 </p>
-<p>
-<strong>Thesis<br>
-</strong>Zerbini FM (1996) Aspects of the epidemiology of lettuce mosaic in the Salinas Valley of California, and the production of LMV-resistant transgenic lettuce plants. PhD Thesis, University of California, Davis
-</p>
-<p>
-<strong>Conference proceedings<br>
-</strong>Igarashi S, Utiamada CM, Igarashi LC, Kazuma AH, Lopes RS (1986) Occurrence of <em>Pyricularia</em> sp. in wheat in the state of Paraná. In: 14<sup>th</sup> Brazilian Wheat Research Workshop, Abstracts... IAPAR, Londrina
-</p>
-<p>
-<strong>Technical reports<br>
-</strong>Fawcett HS (1911) Scaly bark or nail head rust of citrus. Florida Agriculture Experiment Station Bulletin 106
-</p><br>
+
+<br>
 <h2>11. Tables</h2>
 
 <ul>

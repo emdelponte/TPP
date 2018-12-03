@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instructions on Tropical Plant Pathology</title>
+    <link>/tags/instructions/</link>
+    <description>Recent content in Instructions on Tropical Plant Pathology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 02 Dec 2018 00:00:00 -0200</lastBuildDate>
+    
+	<atom:link href="/tags/instructions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Updates to our editorial policy and instructions for authors</title>
+      <link>/post/update-instructions/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 -0200</pubDate>
+      
+      <guid>/post/update-instructions/</guid>
+      <description>Starting in December 2018, TPP will no longer accept for publication first reports of diseases/pathogen in a geographic location. Special cases had been published as short communication, including new diseases in a country, disease of major economic significance for major crops, etc. We will continue to publish original research that is not limited to report the new occurrence of a known disease or pathogen but go beyond including description of new taxa and pathogen population and epidemiological aspects using data from more extensive surveys.</description>
+    </item>
+    
+  </channel>
+</rss>

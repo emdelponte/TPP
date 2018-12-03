@@ -11,32 +11,65 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Updates to our editorial policy and instructions for authors</title>
+      <link>/post/update-instructions/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 -0200</pubDate>
+      
+      <guid>/post/update-instructions/</guid>
+      <description>&lt;p&gt;Starting in December 2018, TPP will no longer accept for publication first reports of diseases/pathogen in a geographic location. Special cases had been published as short communication, including new diseases in a country, disease of major economic significance for major crops, etc. We will continue to publish original research that is not limited to report the new occurrence of a known disease or pathogen but go beyond including description of new taxa and pathogen population and epidemiological aspects using data from more extensive surveys.&lt;/p&gt;
+
+&lt;p&gt;We updated our &lt;a href=&#34;/instructions&#34;&gt;Instructions for Authors&lt;/a&gt; and prepared a list of &lt;strong&gt;minimum requirements&lt;/strong&gt; for consideration which should be carefully followed by authors prior to submitting a mansucript to TPP. If at least one of the requirements are not met, the manuscript will be sent back to author.&lt;/p&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Manuscripts should contain disease and/or plant pathogen data; please note that &lt;i&gt;first reports of plant diseases/pathogens are no longer accepted under any circumstances&lt;/I&gt;.&lt;br&gt;
+
+&lt;li&gt;Experiments should be repeated in time at least once, unless the research results are from surveys or of non-quantitative nature. Failure to adhere to our experimental and statistical considerations will be grounds for rejection.&lt;br&gt;
+
+&lt;li&gt;Studies on screening or evaluation of efficacy of synthetic/natural products (fungicides, biocontrol agents, plant extracts, etc.) must include field data and provide additional information on modes of action. The latter requirement can be waived if the results are based on meta-analysis using multisite and multi-year datasets and contribute novel information for management. Studies on screening of pathogen populations for drug/fungicide resistance should include in vitro as well as molecular data.&lt;br&gt;
+
+&lt;li&gt;Studies on screening of plant host genotypes for disease resistance should not be limited to ranking locally-adapted genotypes but provide sufficiently novel information on the mechanisms of resistance or other aspects of broader interest to the international plant pathology community.&lt;br&gt;
+
+&lt;li&gt;Submissions must adhere to the manuscript formatting guidelines 
+
+&lt;li&gt;Authors should make sure the manuscript is written in good quality English. Non-native English speakers are encouraged to seek external language editing services if needed. &lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Full documentation of the instructions can be found &lt;a href=&#34;/instructions/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Instructions for Authors</title>
       <link>/pages/instructions/</link>
       <pubDate>Tue, 20 Nov 2018 00:00:00 -0200</pubDate>
       
       <guid>/pages/instructions/</guid>
-      <description>&lt;p&gt;Last update: 20 November 2018
+      <description>&lt;p&gt;Last update: 2 December 2018
 &lt;/p&gt;&lt;br&gt;
 &lt;h2&gt;1. Scope&lt;/h2&gt;&lt;/p&gt;
 
-&lt;p&gt;Submissions must report original research that provides new insights into the etiology and epidemiology of plant disease as well as population biology of plant pathogens, host-pathogen interactions, physiological and molecular plant pathology, and strategies to promote crop protection.&lt;/p&gt;
+&lt;p&gt;Tropical Plant Pathology is an international journal devoted to publishing a wide range of research on fundamental and applied aspects of plant diseases of concern to agricultural, forest and ornamental crops from tropical and subtropical environments. &lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;
-&lt;h2&gt;2. Manuscript submission&lt;/h2&gt;&lt;/p&gt;
+&lt;p&gt;Submissions must report original research that provides new insights into the etiology and epidemiology of plant diseases as well as population biology of plant pathogens, host-pathogen interactions, physiological and molecular plant pathology, and strategies to promote crop protection.&lt;/p&gt;
 
-&lt;p&gt;&lt;p&gt;
-Submission of a manuscript implies that:
-&lt;/p&gt;&lt;ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;li&gt;the work described has not been published before;
-&lt;li&gt;it is not under consideration for publication anywhere else;
-&lt;li&gt;its publication has been approved by all co-authors, if any, as well as by the responsible authorities – tacitly or explicitly – at the institute where the work has been carried out. &lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+&lt;h2&gt;2. Manuscript submission&lt;/h2&gt;
 
-&lt;p&gt;&lt;p&gt;
+&lt;p&gt;
+Submission of a manuscript implies that: 
+&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;the work described has not been published before;
+&lt;li&gt;it is not under consideration for publication anywhere else; 
+&lt;li&gt;its publication has been approved by all co-authors, if any, as well as by the responsible authorities – tacitly or explicitly – at the institute where the work has been carried out. &lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;
 Neither the publisher nor the society will not be held legally responsible should there be any claims for compensation. See also in this document: &lt;a href=&#34;#ethical-responsibilities-of-authors-16&#34;&gt;Ethical Responsibilities of Authors&lt;/a&gt;.
 &lt;/p&gt;
-&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;
 
 &lt;h2&gt;3. Minimum requirements for consideration&lt;/h2&gt;
 
@@ -51,16 +84,18 @@ Neither the publisher nor the society will not be held legally responsible shoul
 &lt;li&gt;Studies on screening of plant host genotypes for disease resistance should not be limited to ranking locally-adapted genotypes but provide sufficiently novel information on the mechanisms of resistance or other aspects of broader interest to the international plant pathology community.&lt;br&gt;
 
 &lt;li&gt;Submissions must adhere to the manuscript formatting guidelines - see more in this document: &lt;a href=&#34;#manuscript-preparation-8&#34;&gt;Manuscript preparation&lt;/a&gt; and &lt;a href=&#34;#references-11&#34;&gt;References&lt;/a&gt;.
+
 &lt;li&gt;Authors should make sure the manuscript is written in good quality English. Non-native English speakers are encouraged to seek external language editing services if needed. See also in this document: &lt;a href=&#34;#english-language-support-18&#34;&gt;English Language Support&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;
 
 &lt;h2&gt;4. Article types&lt;/h2&gt;
 
-&lt;p&gt;&lt;p&gt;
-&lt;em&gt;Tropical Plant Pathology&lt;/em&gt; considers for publication:&lt;/p&gt;
 
-&lt;p&gt;&lt;li&gt; Original Articles
+&lt;p&gt;
+&lt;em&gt;Tropical Plant Pathology&lt;/em&gt; considers for publication:
+
+&lt;li&gt; Original Articles
 &lt;li&gt; Short Communications
 &lt;li&gt; Reviews
 &lt;li&gt; Letters to the Editors.
@@ -68,60 +103,61 @@ Neither the publisher nor the society will not be held legally responsible shoul
 &lt;p&gt;
 &lt;h3&gt;4.1 Original article&lt;/h3&gt;
 &lt;/strong&gt;These are full-length papers describing original articles (2,500-3000 words) with the following sections:
-&lt;/p&gt;&lt;ul&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;ul&gt;
 
-&lt;p&gt;&lt;li&gt;Abstract
+&lt;li&gt;Abstract
 &lt;li&gt;Introduction
 &lt;li&gt;Material and methods
 &lt;li&gt;Results
 &lt;li&gt;Discussion
-&lt;li&gt;Authors&amp;rsquo; contributions
+&lt;li&gt;Authors&#39; contributions
 &lt;li&gt;Acknowledgements
-&lt;li&gt;References&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+&lt;li&gt;References&lt;/li&gt;&lt;/ul&gt;
 
-&lt;p&gt;&lt;p&gt;
+&lt;p&gt;
 &lt;h3&gt;4.2 Short communication&lt;/h3&gt;
 &lt;/strong&gt;A straightforward manuscript reporting results that do not warrant a full-length article but that stand on their own (not a preliminary work). Length: up to 2,500 words. The manuscript should present the following sections:
-&lt;/p&gt;&lt;ul&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;ul&gt;
 
-&lt;p&gt;&lt;li&gt;Abstract
+&lt;li&gt;Abstract
 &lt;li&gt;Main text
-&lt;li&gt;Authors&amp;rsquo; contributions
+&lt;li&gt;Authors&#39; contributions
 &lt;li&gt;Acknowledgements
-&lt;li&gt;References&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+&lt;li&gt;References&lt;/li&gt;&lt;/ul&gt;
 
-&lt;p&gt;&lt;p&gt;
+&lt;p&gt;
 &lt;h3&gt;4.3 Review&lt;/h3&gt;
 &lt;/p&gt;
 &lt;p&gt;
-Reviews are normally by invitation. However, if you wish to submit one, send a pre-submission enquiry with a tentative title, abstract and evidence of author&amp;rsquo;s experience in the topic. Reviews can be of three types: narrative literature reviews, systematic reviews, and systematic reviews with meta-analyses.
+Reviews are normally by invitation. However, if you wish to submit one, send a pre-submission enquiry with a tentative title, abstract and evidence of author&#39;s experience in the topic. Reviews can be of three types: narrative literature reviews, systematic reviews, and systematic reviews with meta-analyses.
 &lt;/p&gt;
 &lt;p&gt;
 &lt;h3&gt;4.4 Letter to the Editor&lt;/h3&gt;
-&lt;/strong&gt;Points of view, commentaries or criticisms relating or responding to recent published items of interest to plant pathologists. Discussion on political, social and ethical issues and novel scientific ideas of interest to the journal&amp;rsquo;s broad readership are also welcome. Length:  up to 1,500 words.
+&lt;/strong&gt;Points of view, commentaries or criticisms relating or responding to recent published items of interest to plant pathologists. Discussion on political, social and ethical issues and novel scientific ideas of interest to the journal&#39;s broad readership are also welcome. Length:  up to 1,500 words.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;
 
 &lt;h2&gt;5. Submission and required files&lt;/h2&gt;
 &lt;/p&gt;&lt;ul&gt;
 
-&lt;li&gt;For submitting a manuscript, the corresponding author, after having all files prepared (see below), submits the manuscript via the Editorial Manager Online system (http://www.edmgr.com/tppa).  &lt;ul&gt;
+&lt;li&gt;The corresponding author, having all files prepared (see below), should submit the manuscript via the Editorial Manager Online system (http://www.edmgr.com/tppa).  &lt;ul&gt;
 
 &lt;li&gt;Please note that at least three author-suggested reviewers are required to complete submission. These reviewers should be selected in an ethical and unbiased way. See &lt;a href=&#34;https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574&#34;&gt;here&lt;/a&gt; general guidelines for selecting reviewers appropriately.  
 &lt;li&gt;For a new submission, a single file (.doc or .docx) containing the manuscript text, tables and figures is sufficient. There is no need, at this stage, to submit high quality figures (TIFF, PNG, etc.) or tables as separate files. 
-&lt;li&gt;Authors may opt to submit a cover letter in PDF format or include text of the letter in the specific field of the submission process. Do recall that a good cover letter can help to make a good first impression to your work. &lt;a href=&#34;https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574&#34;&gt;See here &lt;/a&gt; guidelines on how to write a good letter.
+&lt;li&gt;Authors are encouraged to submit a cover letter in PDF format or include the text of the letter in the specific field during the submission process. Do recall that a nice cover letter can help to make a good first impression to your work. &lt;a href=&#34;https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574&#34;&gt;See here &lt;/a&gt; guidelines on how to write a good letter.
 &lt;li&gt;Digital files of high quality images and graphs, maps,  etc. should be uploaded only at the last submission after the manuscript is fully revised and close to acceptance. In any case, the typesetting team will further contact authors if uploaded or embedded figures in the doc file are of poor quality.
-&lt;li&gt;Electronic Supplemental materials should be uploaded separately – see specific section.&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;Electronic Supplemental materials should be uploaded separately – see specific section below.&lt;/li&gt;&lt;/ul&gt;
 &lt;/li&gt;&lt;/ul&gt;
 &lt;br&gt;
 &lt;h2&gt;6. Pre-analysis workflow&lt;/h2&gt;
 
-&lt;p&gt;&lt;p&gt;
-After submission, the Journal Editorial Office Assistant, who may contact the author and ask for some clarifications or adjustments, performs an operational check. Finally, the Editor-in-Chief or a Senior Editor pre-analyses the submission (prior to assign a Section Editor) to check whether:
-&lt;/p&gt;&lt;ul&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;li&gt;
+&lt;p&gt;
+After submission, the Journal Editorial Office Assistant, who may contact the author and ask for some clarifications or adjustments, performs an operational check. Finally, the Editor-in-Chief or a Senior Editor pre-analyses the submission (prior to assign a Section Editor) to check whether:
+&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;
 The manuscript falls within the scope;
 &lt;li&gt;The minimum requirements are met;
 &lt;li&gt;The results are novel and contribute to advance the field;
@@ -129,27 +165,28 @@ The manuscript falls within the scope;
 &lt;li&gt;The manuscript format is prepared following our Instructions for Authors
 &lt;/ul&gt;
 &lt;br&gt;
-&lt;h2&gt;6. Experimental and statistical considerations&lt;/h2&gt;&lt;/p&gt;
+&lt;h2&gt;6. Experimental and statistical considerations&lt;/h2&gt;
 
-&lt;p&gt;&lt;p&gt;
-These instructions should be used as a guideline/outline. Researchers should ideally consult with a statistician before designing an experiment and analyzing the data.
-&lt;/p&gt;&lt;ul&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;li&gt;When conducting observational or planned research choose the most appropriate hypothesis tests for categorical or continuous variables and/or characterize the variability (uncertainty) by means of confidence intervals. These procedures are required to provide evidence of the robustness and reproducibility of the research findings.
-&lt;li&gt;In &lt;em&gt;Material and Methods &lt;/em&gt;describe details on how the data were collected including  sampling design and size, number of experimental units (replicates), randomization, blocking and balancing. &lt;span style=&#34;text-decoration:underline;&#34;&gt;It is imperative that all experiments are repeated at least once and that explanation is provided whether and how data from two experiments were combined for analysis&lt;/span&gt;. For field experiments, at least two trials should be conducted. These can be two years/seasons or two distant sites (different environment) within a same year/season. Manuscripts without evidence of proper design and repetition in time will be rejected.
-&lt;li&gt;When analyzing the data, select the most appropriate inferential methods according to the number of groups compared (two or more), independence (non-paired or paired data), type of factor (quantitative or qualitative), and nature of the response variable (continuous, count, categorical or nominal).  &lt;ul&gt;&lt;/p&gt;
+&lt;p&gt;
+These instructions should be used as a guideline/outline. Researchers should ideally consult with a statistician before designing an experiment and analyzing the data. 
+&lt;/p&gt;&lt;ul&gt;
 
-&lt;p&gt;&lt;li&gt;When comparing two groups, report &lt;em&gt;P&lt;/em&gt;-values using proper t-tests (non-paired or paired) or the equivalent non-parametric tests if assumptions for parametric tests are not met. Alternatively, or additionally, provide 95% confidence intervals for visual inference or calculate the effect-size, in the form of absolute or standardized mean difference between treatments to facilitate interpretation and practical significance of the results.
- &lt;li&gt;When comparing three or more groups, use parametric analysis of variance (ANOVA) for qualitative data and linear models if the data are continuous (weight, size, area, etc.). For data described as a proportion (incidence), or counts (lesion number) give preference to fit generalized linear models with the appropriate link function to these data. Original data can be transformed prior to analysis, with justifications for the transformation chosen, when using parametric tests. Discrimination among three or more groups can be made using linear contrasts or multiple comparison tests. &lt;em&gt;Duncan&amp;rsquo;s multiple range test will not be accepted.&lt;/em&gt;
- &lt;li&gt;Non-parametric tests should be used for ordinal data or disease rating on a 0 to &lt;em&gt;n&lt;/em&gt; scale (e.g. 1 = no disease, 2 = leaf distortion; 3 = leaf discoloration, etc.). For ordinal ratings based on disease severity ranges (e.g. Horsfall-Barratt scale), convert the scores to the midpoint of the interval prior to parametric analysis using ANOVA.
- &lt;li&gt;If there are sufficient time points or number of levels of a quantitative factor (ex.  concentration, temperature etc.), do not use a means separation test to discriminate among levels of the factor. Instead, fit linear or non-linear regression models to the data. Alternatively, for time-dependent (longitudinal) data, consider calculate the area under the curve and compare the mean area among treatments using a means separation test.
- &lt;li&gt;For correlation analysis, Pearson&amp;rsquo;s correlation test should be used under the assumption of normality, otherwise use the equivalent non-parametric method such as Spearman&amp;rsquo;s rank correlation.
-&lt;li&gt;When reporting results of hypothesis tests, give preference to report exact &lt;em&gt;P&lt;/em&gt;-values (e.g. &lt;em&gt;t&lt;/em&gt; was significant at &lt;em&gt;P&lt;/em&gt; = 0.012) or use significance levels when &lt;em&gt;P&lt;/em&gt;-values are very low (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.001). For data to be presented in a table or a plot/graph make sure to indicate the measure of variability (standard deviation, interquartile range, etc) or inferential statistics (confidence intervals) for values displayed in a table column (or between parentheses) or as error bars in plots.
+&lt;li&gt;When conducting observational or planned research choose the most appropriate hypothesis tests for categorical or continuous variables and/or characterize the variability (uncertainty) by means of confidence intervals. These procedures are required to provide evidence of the robustness and reproducibility of the research findings.
+&lt;li&gt;In &lt;em&gt;Material and Methods &lt;/em&gt;describe details on how the data were collected including  sampling design and size, number of experimental units (replicates), randomization, blocking and balancing. &lt;span style=&#34;text-decoration:underline;&#34;&gt;It is imperative that all experiments are repeated at least once and which criteria was used to pool the data from two experiments for analysis&lt;/span&gt;. For field experiments, at least two trials should be conducted. These can be two years/seasons or two distant sites (different environment) within a same year/season. Manuscripts without evidence of proper design and repetition in time will be rejected.
+&lt;li&gt;When analyzing the data, select the most appropriate inferential methods according to the number of groups compared (two or more), independence (non-paired or paired data), type of factor (quantitative or qualitative), and nature of the response variable (continuous, count, categorical or nominal).  &lt;ul&gt;
+
+ &lt;li&gt;When comparing two groups, report &lt;em&gt;P&lt;/em&gt;-values using proper t-tests (non-paired or paired) or the equivalent non-parametric tests if assumptions for parametric tests are not met. Alternatively, or additionally, provide 95% confidence intervals for visual inference or calculate the effect-size, in the form of absolute or standardized mean difference between treatments to facilitate interpretation and practical significance of the results. 
+ &lt;li&gt;When comparing three or more groups, use parametric analysis of variance (ANOVA) for qualitative data and linear models if the data are continuous (weight, size, area, etc.). For data described as a proportion (incidence), or counts (lesion number) give preference to fit generalized linear models with the appropriate link function to these data. Original data can be transformed prior to analysis, with justifications for the transformation chosen, when using parametric tests. Discrimination among three or more groups can be made using linear contrasts or multiple comparison tests. &lt;em&gt;Duncan&#39;s multiple range test will not be accepted.&lt;/em&gt; 
+ &lt;li&gt;Non-parametric tests should be used for ordinal data or disease rating on a 0 to &lt;em&gt;n&lt;/em&gt; scale (e.g. 1 = no disease, 2 = leaf distortion; 3 = leaf discoloration, etc.). For ordinal ratings based on disease severity ranges (e.g. Horsfall-Barratt scale), convert the scores to the midpoint of the interval prior to parametric analysis using ANOVA. 
+ &lt;li&gt;If there are sufficient time points or number of levels of a quantitative factor (ex.  concentration, temperature etc.), do not use a means separation test to discriminate among levels of the factor. Instead, fit linear or non-linear regression models to the data. Alternatively, for time-dependent (longitudinal) data, consider calculate the area under the curve and compare the mean area among treatments using a means separation test. 
+ &lt;li&gt;For correlation analysis, Pearson&#39;s correlation test should be used under the assumption of normality, otherwise use the equivalent non-parametric method such as Spearman&#39;s rank correlation. 
+&lt;li&gt;When reporting results of hypothesis tests, give preference to report exact &lt;em&gt;P&lt;/em&gt;-values (e.g. &lt;em&gt;t&lt;/em&gt; was significant at &lt;em&gt;P&lt;/em&gt; = 0.012) or use significance levels when &lt;em&gt;P&lt;/em&gt;-values are very low (&lt;em&gt;P&lt;/em&gt; &lt; 0.001). For data to be presented in a table or a plot/graph make sure to indicate the measure of variability (standard deviation, interquartile range, etc) or inferential statistics (confidence intervals) for values displayed in a table column (or between parentheses) or as error bars in plots. 
 &lt;li&gt;Provide the correct citations to all software and packages used for analyzing and preparing data for presentation.  &lt;/li&gt;&lt;/ul&gt;
 &lt;/li&gt;&lt;/ul&gt;
 &lt;/li&gt;&lt;/ul&gt;
 &lt;br&gt;
-&lt;h2&gt;7. Nomenclature and culture collections&lt;/h2&gt;&lt;/p&gt;
+&lt;h2&gt;7. Nomenclature and culture collections&lt;/h2&gt;
 
 &lt;ul&gt;
 
@@ -214,58 +251,63 @@ The title page should include:
 
 &lt;h3&gt;10.2 Abstract &lt;/h3&gt;
 
-&lt;p&gt;&lt;p&gt;
-The abstract should not exceed 300 words and not contain any undefined abbreviations or unspecified references.
+
+&lt;p&gt;
+The abstract should not exceed 300 words and not contain any undefined abbreviations or unspecified references. 
 &lt;/p&gt;
-&lt;h3&gt;10.3 Keywords &lt;/h3&gt;&lt;/p&gt;
+&lt;h3&gt;10.3 Keywords &lt;/h3&gt;
 
-&lt;p&gt;&lt;p&gt;
-Please provide 3 to 6 key words; do not repeat words in the title.  Order by scientific names of hosts and/or pathogens and other key words, all in alphabetical order.&lt;br /&gt;
+
+&lt;p&gt;
+Please provide 3 to 6 key words; do not repeat words in the title.  Order by scientific names of hosts and/or pathogens and other key words, all in alphabetical order.  
 &lt;/p&gt;
-&lt;h3&gt;10.4 Main text and sections&lt;/h3&gt;&lt;/p&gt;
+&lt;h3&gt;10.4 Main text and sections&lt;/h3&gt;
 
-&lt;p&gt;&lt;ol&gt;&lt;/p&gt;
+ &lt;ol&gt;
 
-&lt;p&gt;&lt;li&gt;Note that naming of the main sections of the text (Introduction to Discussion) are required for Original Articles only, not for Short Communications, although the order of the elements is the same. For reviews and letters to Editor, subheadings lead to better organization and facilitates reading. The text of the subheading should be short and specific to the content.
+ &lt;li&gt;Note that naming of the main sections of the text (Introduction to Discussion) are required for Original Articles only, not for Short Communications, although the order of the elements is the same. For reviews and letters to Editor, subheadings lead to better organization and facilitates reading. The text of the subheading should be short and specific to the content.
  &lt;li&gt;&lt;em&gt;Introduction:&lt;/em&gt; Description of the background that led to the study, justification, hypothesis which is being tested, if applicable, and objectives.
- &lt;li&gt;&lt;em&gt;Material and Methods:&lt;/em&gt; Detailed description of the materials and procedures used in the research in a way that enables other researchers to repeat exactly the work if willing to do so. Authors should specifically:  &lt;ol&gt;&lt;/p&gt;
+ &lt;li&gt;&lt;em&gt;Material and Methods:&lt;/em&gt; Detailed description of the materials and procedures used in the research in a way that enables other researchers to repeat exactly the work if willing to do so. Authors should specifically:  &lt;ol&gt;
 
-&lt;p&gt;&lt;li&gt;Separate and name subsections for better organization
+  &lt;li&gt;Separate and name subsections for better organization
   &lt;li&gt;Not include city and country when citing manufacturers
   &lt;li&gt;Not include trademark symbols when citing commercial products
-  &lt;li&gt;Deposit and provide reference numbers of DNA sequence data
-  &lt;li&gt;Explain thoroughly the data analysis procedures, ensuring they are correct and reproduced.
-  &lt;li&gt;Consider making raw data and computational codes available at a repository (or uploaded as supplemental information) for reviewers and latter for readers upon acceptance
- &lt;li&gt;&lt;em&gt;Results:&lt;/em&gt; This section describes the obtained data and results in a concise and direct manner. As general guidelines:  &lt;ol&gt;&lt;/p&gt;
+  &lt;li&gt;Deposit and provide reference numbers of DNA sequence data 
+  &lt;li&gt;Explain thoroughly the data analysis procedures, ensuring they are correct and reproduced. 
+  &lt;li&gt;Consider making raw data and computational codes available at a repository (or uploaded as supplemental information) for reviewers and latter for readers upon acceptance 
+ &lt;li&gt;&lt;em&gt;Results:&lt;/em&gt; This section describes the obtained data and results in a concise and direct manner. As general guidelines:  &lt;ol&gt;
 
-&lt;p&gt;&lt;li&gt;Whenever the case, begin text presenting inferences based on hypothesis tests
-  &lt;li&gt;Avoid repetition of methodology and state the significance of results
+  &lt;li&gt;Whenever the case, begin text presenting inferences based on hypothesis tests 
+  &lt;li&gt;Avoid repetition of methodology and state the significance of results 
   &lt;li&gt;Call out data tables and figures with data sequentially. These may appear embed in the document right after the paragraph they are called out.
- &lt;li&gt;&lt;em&gt;Discussion: &lt;/em&gt;The findings of the study should be placed in the context of relevant literature. It must not read as literature review with ideas and statements included solely to increase the size of the manuscript.
+ &lt;li&gt;&lt;em&gt;Discussion: &lt;/em&gt;The findings of the study should be placed in the context of relevant literature. It must not read as literature review with ideas and statements included solely to increase the size of the manuscript. 
  &lt;li&gt;&lt;em&gt;Author contribution statement:&lt;/em&gt; see specific section below.
  &lt;li&gt;&lt;em&gt;Acknowledgments:&lt;/em&gt; a single paragraph to thank people and institutions that provided technical, financial and intellectual support. &lt;/li&gt; &lt;/ol&gt;
 &lt;/li&gt; &lt;/ol&gt;
 &lt;/li&gt; &lt;/ol&gt;
- &lt;ol&gt;&lt;/p&gt;
+ &lt;ol&gt;
 
-&lt;p&gt;&lt;li&gt;&lt;em&gt;References&lt;/em&gt;: listed alphabetically and following our formatting standards. See more in this document:&lt;a href=&#34;#references-11&#34;&gt; References&lt;/a&gt;&lt;span style=&#34;text-decoration:underline;&#34;&gt;.&lt;/span&gt;&lt;/li&gt; &lt;/ol&gt;&lt;/p&gt;
+ &lt;li&gt;&lt;em&gt;References&lt;/em&gt;: listed alphabetically and following our formatting standards. See more in this document:&lt;a href=&#34;#references-11&#34;&gt; References&lt;/a&gt;&lt;span style=&#34;text-decoration:underline;&#34;&gt;.&lt;/span&gt;&lt;/li&gt; &lt;/ol&gt;
 
 &lt;h3&gt;10.5 Author contribution statement&lt;/h3&gt;
 
-&lt;p&gt;&lt;p&gt;
-Authors must provide a short description of the contributions made by each listed author (please use initials). This should be placed in a separate section before the Acknowledgments. See example below:
+
+&lt;p&gt;
+Authors must provide a short description of the contributions made by each listed author (please use initials). This should be placed in a separate section before the Acknowledgments. See example below: 
 &lt;/p&gt;
 &lt;p&gt;
  AA, XX and TT planed, designed and executed experimental work, AA and XX conducted data analyses, AA, XX, TT and ZZ wrote the manuscript.
 &lt;/p&gt;
-&lt;h3&gt;10.6 References&lt;/h3&gt;&lt;/p&gt;
+&lt;h3&gt;10.6 References&lt;/h3&gt;
+
 
 &lt;h4&gt;10.6.1 General instructions&lt;/h4&gt;
 
-&lt;p&gt;&lt;p&gt;
- Only articles that are published or available online (Online First, Online Early, Early view, etc) in peer-reviewed journals may be cited. Please note that citation of thesis, conference proceedings or technical reports - are no longer accepted. When referencing a personal communication of a non-author of the manuscript, authors must provide appropriate evidence (e-mail). Authors may cite unpublished data of their own. In this case, provide author&amp;rsquo;s initials and last name followed by &amp;ldquo;unpublished data&amp;rdquo;.
+
+&lt;p&gt;
+ Only articles that are published or available online (Online First, Online Early, Early view, etc) in peer-reviewed journals may be cited. Please note that citation of thesis, conference proceedings or technical reports - are no longer accepted. When referencing a personal communication of a non-author of the manuscript, authors must provide appropriate evidence (e-mail). Authors may cite unpublished data of their own. In this case, provide author&#39;s initials and last name followed by &#34;unpublished data&#34;. 
 &lt;/p&gt;
-&lt;h4&gt;10.6.2  Citation&lt;/h4&gt;&lt;/p&gt;
+&lt;h4&gt;10.6.2  Citation&lt;/h4&gt;
 
 &lt;ul&gt;
 
@@ -300,9 +342,9 @@ Authors must provide a short description of the contributions made by each liste
 &lt;li&gt;Journal titles should not be abbreviated.&lt;/li&gt;&lt;/ul&gt;
 &lt;/li&gt;&lt;/ul&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
 &lt;p&gt;
 &lt;strong&gt;Journal article&lt;br&gt;
 &lt;/strong&gt;Reis RF, Goes A, Timmer LW (2006) Effect of temperature, leaf wetness, and rainfall on the production of &lt;em&gt;Guignardia citricarpa&lt;/em&gt; ascospores and on black spot severity on sweet orange. Fitopatologia Brasileira 31:29-34
@@ -324,20 +366,10 @@ Arnold AE, Medjía LC, Kyllo D, Rojas EI, Maynard Z, Robbins N, Herre EA (2003) 
 &lt;/p&gt;
 &lt;p&gt;
 &lt;strong&gt;Online reference&lt;br&gt;
-&lt;/strong&gt;CONAB. Cana-de-açúcar, safra 2006 -2007. Available at: &lt;a href=&#34;http://www.conab.gov.br/BoletimCana.pdf&#34; target=&#34;_blank&#34;&gt;http://www.conab.gov.br/BoletimCana.pdf&lt;/a&gt;.  Accessed on October 12, 2008
+&lt;/strong&gt;CONAB. Cana-de-açúcar, safra 2006 -2007. Available at: http://www.conab.gov.br/BoletimCana.pdf.  Accessed on October 12, 2008
 &lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Thesis&lt;br&gt;
-&lt;/strong&gt;Zerbini FM (1996) Aspects of the epidemiology of lettuce mosaic in the Salinas Valley of California, and the production of LMV-resistant transgenic lettuce plants. PhD Thesis, University of California, Davis
-&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Conference proceedings&lt;br&gt;
-&lt;/strong&gt;Igarashi S, Utiamada CM, Igarashi LC, Kazuma AH, Lopes RS (1986) Occurrence of &lt;em&gt;Pyricularia&lt;/em&gt; sp. in wheat in the state of Paraná. In: 14&lt;sup&gt;th&lt;/sup&gt; Brazilian Wheat Research Workshop, Abstracts&amp;hellip; IAPAR, Londrina
-&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Technical reports&lt;br&gt;
-&lt;/strong&gt;Fawcett HS (1911) Scaly bark or nail head rust of citrus. Florida Agriculture Experiment Station Bulletin 106
-&lt;/p&gt;&lt;br&gt;
+
+&lt;p&gt;&lt;br&gt;
 &lt;h2&gt;11. Tables&lt;/h2&gt;&lt;/p&gt;
 
 &lt;ul&gt;
