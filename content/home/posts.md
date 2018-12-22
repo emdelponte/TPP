@@ -6,7 +6,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 title = "News & Blog"
-subtitle = "General announcements and blog posts on editorial-related topics"
+subtitle = "General announcements and  posts on editorial-related topics"
 
 # Order that this section will appear in.
 weight = 20

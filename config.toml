@@ -269,7 +269,7 @@ logo = "logo_tpp.png"
  pre = "<i class='fa  fa-file-archive-o'></i> "
   
 [[menu.main]]
-  name = "News & Blog"
+  name = "Blog & News"
   url = "#posts"
   weight = 20
   pre = "<i class='fa  fa-comments-o'></i>"
