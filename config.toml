@@ -194,7 +194,7 @@ logo = "logo_tpp.png"
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 0
 
   # Social/Academic Networking
   #
