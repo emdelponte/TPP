@@ -8,7 +8,7 @@ During early August we took the opportunity that several Editors were attending 
 """
 math = false
 +++ 
-<img src = "/img/posts/editors-pic-icpp2018.jpg" style = "margin-bottom:30px">
+<img src = "/tpp/img/posts/editors-pic-icpp2018.jpg" style = "margin-bottom:30px">
 
 We would like to thank the group of eight Section Editors who could find a time in their busy schedule, during a very big full week meeting in Boston, to sit for an hour and discuss editorial issues. Most of the Editors in the meeting joined TPP late last year, so this was a chance to know them in person and learn from their experiences and answer questions related to the editores duties. From left to right, Denita H. Guerry, Nik Cunniffe, Alessandra Souza, Rodrigo Almeida, Sydney Everhart, Diana Fernandez, Zhang Hao, Emerson Del Ponte and Adam Sparks. 
 

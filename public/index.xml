@@ -2,25 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tropical Plant Pathology on Tropical Plant Pathology</title>
-    <link>/</link>
+    <link>/tpp/</link>
     <description>Recent content in Tropical Plant Pathology on Tropical Plant Pathology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 14 Oct 2017 23:00:00 -0300</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tpp/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Special Issue on White Mold</title>
+      <link>/tpp/post/special-issue-white-mold/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 -0200</pubDate>
+      
+      <guid>/tpp/post/special-issue-white-mold/</guid>
+      <description>&lt;p&gt;&lt;img src = &#34;/tpp/img/posts/special-issue1.jpg&#34; align = right width = 350&gt;
+Excited to announce our second special issue that covers one of the most important plant diseases of vegetables and legumes: white mold, also known as Sclerotinia stem rot. Our February issue presents 11 articles including reviews and original research prepared by speakers of the 16th International Sclerotinia Workshop held in Uberlândia, Brazil, in 2017. Enjoy a free trial to all articles during the next months:
+&lt;a href=&#34;https://link.springer.com/journal/40858/44/1&#34; target=&#34;_blank&#34;&gt;https://link.springer.com/journal/40858/44/1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Read below our Guest Editorial by Dr. Eduardo Mizubuti
+source: &lt;a href=&#34;https://link.springer.com/article/10.1007/s40858-019-00276-1&#34; target=&#34;_blank&#34;&gt;https://link.springer.com/article/10.1007/s40858-019-00276-1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Epidemics of white mold caused by Sclerotinia sclerotiorum are ubiquitous and highly destructive. More than 400 plant species can be affected by white mold and the disease is known to occur in all continents, but Antarctica (Bolton et al. 2006; Navaud et al. 2018). The wide host range of the &lt;em&gt;S. sclerotiorum&lt;/em&gt;, its long-lasting capacity to stay viable even in the absence of hosts, and the difficulties to breed highly resistant cultivars are some factors that contribute to crop losses by white mold worldwide.&lt;/p&gt;
+
+&lt;p&gt;Motivated by the need to effectively exchange information about this destructive disease, a group of &amp;ldquo;whitemoldologists&amp;rdquo; decided to organize a workshop for the first time in Beltsville, Maryland in 1974. Several others were organized over the past 45 years (Figure 1), culminating with the 16th International Sclerotinia Workshop (ISW), in Uberlândia, Brazil, from August 25th and  26th, 2017.&lt;/p&gt;
+
+&lt;p&gt;This special issue of Tropical Plant Pathology conveys four reviews and seven original research data submitted by researchers who attended the 2017 IWS in Brazil. Topics of interest ranging from the organismal up to the population levels, or from basic to applied research findings were covered.&lt;/p&gt;
+
+&lt;p&gt;In the first review article, Wilbur et al. provide an up to date summary on epidemiology of white mold as a basis for setting more effective management strategies. Advances have been experienced in cultural, biological and chemical control methods, including the development of risk models based on weather data that can result in area-wide forecast systems to better schedule fungicide applications.&lt;/p&gt;
+
+&lt;p&gt;At the other end, cultivar resistance is a goal of many breeding programs, but one of the challenges to breed for white mold resistance in many crops is the mode of parasitism exerted by &lt;em&gt;S. sclerotiorum&lt;/em&gt;, which has been considered a typical necrotrophic pathogen. This &amp;ldquo;paradigmatic&amp;rdquo; view of the lifestyle of &lt;em&gt;&lt;em&gt;S. sclerotiorum&lt;/em&gt;&lt;/em&gt; is changing recently and McCaghey et al. provide their current view on the initial stages of host colonization by the pathogen, mainly the role played by the subtle effects of virulence factors and the brute force efficacy of cell-wall degrading enzymes in the colonization process. Additionally, authors discuss the implications of these processes in developing resistant cultivars by different approaches. In the arena of breeding for white mold resistance, but from an applied perspective, Ferreira et al. and Miorini et al. evaluated methods of pathogen inoculation and differences in aggressiveness for assessing the resistance of common bean genotypes. These variables have important applications for advancing breeding lines and producing elite materials.&lt;/p&gt;
+
+&lt;p&gt;Four articles tackle issues related to the genetic variability of &lt;em&gt;S. sclerotiorum&lt;/em&gt; and the evolution of the pathogen populations. Clonal populations were commonly reported in the past and even in current studies, like the one presented by Pannullo et al. in this issue. Nevertheless, recent investigations have reported evidence of outcrossing in this homothallic fungus. How this is possible is not fully known yet as discussed by Attanayake et al. The lack of knowledge about the factors determining mycelial compatibility groups (MCGs) in &lt;em&gt;S. sclerotiorum&lt;/em&gt; is one reason why outcrossing is not properly understood yet. For Kamvar &amp;amp; Everhart &amp;ldquo;something in the agar does not compute&amp;hellip;&amp;rdquo; when interpretation of many population genetics studies are based only on the assessment of MCGs as marker.&lt;/p&gt;
+
+&lt;p&gt;Indeed, population studies must include other markers in addition to MCGs; but, Lehner et al. showed that even though there is no strict association between SSR genotypes of the pathogen and MCGs, these groups can largely influence pathogen population structure.
+Pathogen variability was also addressed in two other articles: one oriented towards the differences in sensitivity or susceptibility of &lt;em&gt;S. sclerotiorum&lt;/em&gt; to the biological control agent, Paraphaeosphaeria minitans (formerly known as Coniothyrium minitans); and the other conducted to assess the natural variability in the distribution of sclerotia of &lt;em&gt;S. sclerotiorum&lt;/em&gt; in the soil of soybean fields and to evaluate the spatial associations between white mold variables and soybean yield.&lt;/p&gt;
+
+&lt;p&gt;In the first study by Nicot et al., one important conclusion may be crucial to raise awareness regarding the efficacy of biological control agents. Authors concluded that selection of less sensitive isolates may lead to the formation of &amp;ldquo;resistant&amp;rdquo; population to the biocontrol agent. In the second study, Wutzki et al. report on the high variability of sclerotia density and distribution, but they were positively associated with disease intensity and both negatively affect yields. Interestingly, Civardi et al. demonstrated that Congo grass can reduce carpogenic germination of sclerotia of the pathogen, which in turn was associated with lower intensity of white mold. Brick-by-brick the community involved is making progress to better understand the complexity of the pathosystems involving &lt;em&gt;S. sclerotiorum&lt;/em&gt; and the ISWs initiative is key to promote information exchange and keep the momentum in white mold research.&lt;/p&gt;
+
+&lt;p&gt;References&lt;/p&gt;
+
+&lt;p&gt;Bolton MD, Thomma B, Nelson BD (2006) Sclerotinia sclerotiorum (Lib.) de Bary: Biology and molecular traits of a cosmopolitan pathogen. Molecular Plant Pathology 7:1–16.
+Navaud O, Barbacci A, Taylor A, et al (2018) Shifts in diversification rates and host jump frequencies shaped the diversity of host range among Sclerotiniaceae fungal plant pathogens. Molecular Ecology 27:1309–1323.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Updates to our editorial policies and instructions for authors</title>
-      <link>/post/update-instructions/</link>
+      <link>/tpp/post/update-instructions/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 -0200</pubDate>
       
-      <guid>/post/update-instructions/</guid>
+      <guid>/tpp/post/update-instructions/</guid>
       <description>&lt;p&gt;&lt;em&gt;Tropical Plant Pathology&lt;/em&gt; will no longer accept first reports of diseases/pathogen in a geographic location. Special cases had been published until now as short communication, including first reports to country, emergent diseases of major economic significance to agriculture, etc.&lt;/p&gt;
 
 &lt;p&gt;We will continue to consider work that is not limited to report new occurrences of a known disease or pathogen but go beyond including description of new taxa and pathogen population and epidemiological aspects using data from more extensive surveys and large sample size.&lt;/p&gt;
 
-&lt;p&gt;We updated extensively our &lt;a href=&#34;/instructions&#34;&gt;Instructions for Authors&lt;/a&gt; and prepared a list of &lt;strong&gt;minimum requirements&lt;/strong&gt; for consideration which should be  followed carefully by authors prior to submitting a mansucript to TPP.&lt;/p&gt;
+&lt;p&gt;We updated extensively our &lt;a href=&#34;/tpp/instructions&#34;&gt;Instructions for Authors&lt;/a&gt; and prepared a list of &lt;strong&gt;minimum requirements&lt;/strong&gt; for consideration which should be  followed carefully by authors prior to submitting a mansucript to TPP.&lt;/p&gt;
 
 &lt;p&gt;If at least one of the requirements below are not met, the manuscript will be sent back to author.&lt;/p&gt;
 
@@ -40,7 +77,7 @@
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;Full documentation of the instructions can be found &lt;a href=&#34;/instructions/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Full documentation of the instructions can be found &lt;a href=&#34;/tpp/instructions/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Submit a manuscript &lt;a href=&#34;https://www.editorialmanager.com/tppa/default.aspx&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
@@ -50,10 +87,10 @@
     
     <item>
       <title>Instructions for Authors</title>
-      <link>/pages/instructions/</link>
+      <link>/tpp/pages/instructions/</link>
       <pubDate>Tue, 20 Nov 2018 00:00:00 -0200</pubDate>
       
-      <guid>/pages/instructions/</guid>
+      <guid>/tpp/pages/instructions/</guid>
       <description>&lt;p&gt;Last update: 2 December 2018
 &lt;/p&gt;&lt;br&gt;
 &lt;h2&gt;1. Scope&lt;/h2&gt;&lt;/p&gt;
@@ -582,13 +619,13 @@ Please note that the use of a language editing service is not a requirement for 
     
     <item>
       <title>TPP among the most rapidly growing Plant Pathology journals based on CiteScore metrics  </title>
-      <link>/post/citescore-2018/</link>
+      <link>/tpp/post/citescore-2018/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 -0300</pubDate>
       
-      <guid>/post/citescore-2018/</guid>
+      <guid>/tpp/post/citescore-2018/</guid>
       <description>&lt;p&gt;The latest assessment of scholarly serial publications was made available in early June with the release of the 2017 CiteScore metrics, based on Scopus citation database. A quick analysis of 11 selected similar journals that cover the broad subject of plant pathology shows TPP among three journals with the most increased score (four positions) during the last five years. The current score is 1.07, which is 50% higher than six years earlier.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src = &#34;/img/posts/citescore2017.png&#34; style = &#34;margin-bottom:30px&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src = &#34;/tpp/img/posts/citescore2017.png&#34; style = &#34;margin-bottom:30px&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;This rapid growth may be due to some changes in the period including publication of papers only in English language (2012), which allowed to increase the number of international Editors. In 2015, TPP has been published by Springer Nature. We are thankful to all Editors and anonymous reviewers who dedicate time and contribute to the quality of the articles.&lt;/p&gt;
 </description>
@@ -596,11 +633,11 @@ Please note that the use of a language editing service is not a requirement for 
     
     <item>
       <title>Editorial board meeting during ICPP 2018, Boston </title>
-      <link>/post/editors-meeting-icpp2018/</link>
+      <link>/tpp/post/editors-meeting-icpp2018/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 -0300</pubDate>
       
-      <guid>/post/editors-meeting-icpp2018/</guid>
-      <description>&lt;p&gt;&lt;img src = &#34;/img/posts/editors-pic-icpp2018.jpg&#34; style = &#34;margin-bottom:30px&#34;&gt;&lt;/p&gt;
+      <guid>/tpp/post/editors-meeting-icpp2018/</guid>
+      <description>&lt;p&gt;&lt;img src = &#34;/tpp/img/posts/editors-pic-icpp2018.jpg&#34; style = &#34;margin-bottom:30px&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;We would like to thank the group of eight Section Editors who could find a time in their busy schedule, during a very big full week meeting in Boston, to sit for an hour and discuss editorial issues. Most of the Editors in the meeting joined TPP late last year, so this was a chance to know them in person and learn from their experiences and answer questions related to the editores duties. From left to right, Denita H. Guerry, Nik Cunniffe, Alessandra Souza, Rodrigo Almeida, Sydney Everhart, Diana Fernandez, Zhang Hao, Emerson Del Ponte and Adam Sparks.&lt;/p&gt;
 
@@ -610,11 +647,11 @@ Please note that the use of a language editing service is not a requirement for 
     
     <item>
       <title>Meet our new Editor for the Mycology Section, Dr. Priscila Chaverri </title>
-      <link>/post/welcome-priscila-chaverri/</link>
+      <link>/tpp/post/welcome-priscila-chaverri/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 -0300</pubDate>
       
-      <guid>/post/welcome-priscila-chaverri/</guid>
-      <description>&lt;p&gt;&lt;img src = &#34;/img/posts/chaverri1.jpg&#34; style = &#34;margin-bottom:30px&#34;&gt;&lt;/p&gt;
+      <guid>/tpp/post/welcome-priscila-chaverri/</guid>
+      <description>&lt;p&gt;&lt;img src = &#34;/tpp/img/posts/chaverri1.jpg&#34; style = &#34;margin-bottom:30px&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Our Mycology section has a new Editor, Dr. Priscila Chaverri who holds a joint appointment with the University of Maryland and University of Costa Rica. Dr. Chaverri, originally from Costa Rica where she majored in Forestry, holds a PhD in Plant Pathology obtained at The Pennsylvania State University. Her research interests involve the taxonomy of endophytes in the tropics and the systematics of fungal pathogens (Nectriaceae) associated with hardwood trees in both temperate and tropical regions.&lt;/p&gt;
 
@@ -630,11 +667,11 @@ C. J. Alexopolous award given by the Mycological Society of America to &amp;ldqu
     
     <item>
       <title>Welcome Denita Hadziabdic Guerry, our new Section Editor </title>
-      <link>/post/welcome-denita/</link>
+      <link>/tpp/post/welcome-denita/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 -0300</pubDate>
       
-      <guid>/post/welcome-denita/</guid>
-      <description>&lt;p&gt;&lt;img src = &#34;/img/posts/denita1.jpg&#34; style = &#34;margin-bottom:30px&#34;&gt;Excited to announce Dr. Denita Hadziabdic Guerry as our new Section Editor who will be handling manuscripts in two sections: forest pathology and population biology.&lt;/p&gt;
+      <guid>/tpp/post/welcome-denita/</guid>
+      <description>&lt;p&gt;&lt;img src = &#34;/tpp/img/posts/denita1.jpg&#34; style = &#34;margin-bottom:30px&#34;&gt;Excited to announce Dr. Denita Hadziabdic Guerry as our new Section Editor who will be handling manuscripts in two sections: forest pathology and population biology.&lt;/p&gt;
 
 &lt;p&gt;Denita holds an MSc in Plant pathology and Ph.D. in Population Genetics, both obtained at the University of Tennessee. She is an Assistant Professor in the same University with a professional appointment of 90% Research and 10% Teaching. In research, her areas of expertise are Forest health and forest pathology, population genetics of fungal pathogens, population biology, genetic diversity and conservation of native plants. In teaching, she offers the course called Special Problems in Entomology, Nematology, and Plant Pathology – Population Genetics.&lt;/p&gt;
 
@@ -644,11 +681,11 @@ C. J. Alexopolous award given by the Mycological Society of America to &amp;ldqu
     
     <item>
       <title>Our new website was launched!</title>
-      <link>/post/first-post/</link>
+      <link>/tpp/post/first-post/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 -0300</pubDate>
       
-      <guid>/post/first-post/</guid>
-      <description>&lt;p&gt;&lt;img src = &#34;/img/posts/screen_site.png&#34; style = &#34;margin:30px&#34; align=right&gt;Excited to announce our new modern and responsive website with an improved interface and updated content. We added a news blog section where we will write posts of interest to academic researchers and keep authors and readers up to date with Tropical Plant Pathology.&lt;/p&gt;
+      <guid>/tpp/post/first-post/</guid>
+      <description>&lt;p&gt;&lt;img src = &#34;/tpp/img/posts/screen_site.png&#34; style = &#34;margin:30px&#34; align=right&gt;Excited to announce our new modern and responsive website with an improved interface and updated content. We added a news blog section where we will write posts of interest to academic researchers and keep authors and readers up to date with Tropical Plant Pathology.&lt;/p&gt;
 
 &lt;p&gt;Among the several improvements in this version, we will be soon prepare a simplified version of our instructions for authors a FAQ section with the most frequently questions received from the community.&lt;/p&gt;
 
@@ -660,20 +697,20 @@ C. J. Alexopolous award given by the Mycological Society of America to &amp;ldqu
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
+      <link>/tpp/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
-      <guid>/talk/example-talk/</guid>
+      <guid>/tpp/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
+      <link>/tpp/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/deep-learning/</guid>
+      <guid>/tpp/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -688,29 +725,29 @@ C. J. Alexopolous award given by the Mycological Society of America to &amp;ldqu
     
     <item>
       <title>External Project</title>
-      <link>/project/example-external-project/</link>
+      <link>/tpp/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/example-external-project/</guid>
+      <guid>/tpp/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
+      <link>/tpp/publication/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
+      <guid>/tpp/publication/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
+      <link>/tpp/publication/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
+      <guid>/tpp/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

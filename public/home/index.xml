@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Tropical Plant Pathology</title>
-    <link>/home/</link>
+    <link>/tpp/home/</link>
     <description>Recent content in Homes on Tropical Plant Pathology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 14 Oct 2017 23:00:00 -0300</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tpp/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/hero/</link>
+      <link>/tpp/home/hero/</link>
       <pubDate>Sat, 14 Oct 2017 23:00:00 -0300</pubDate>
       
-      <guid>/home/hero/</guid>
+      <guid>/tpp/home/hero/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>/tpp/home/about/</link>
       <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>/tpp/home/about/</guid>
       <description>Tropical Plant Pathology (TPP, abbrev. Trop Plant Pathol), is the International Journal of the Brazilian Phytopathological Society. TPP is published since 1976, initially as Fitopatologia Brasileira (Brazilian Phytopathology). TPP publishes research on fundamental and applied aspects of plant diseases of interest to international audience and of concern to agricultural, forest and ornamental crops from tropical and subtropical environments. IF JCR 2017: 0.784 | 5-year IF 2017: 0.99 | CiteScore 2017: 1.</description>
     </item>
     
     <item>
       <title>News &amp; Blog</title>
-      <link>/home/posts/</link>
+      <link>/tpp/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>/tpp/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Submit a manuscript</title>
-      <link>/home/submit/</link>
+      <link>/tpp/home/submit/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/submit/</guid>
+      <guid>/tpp/home/submit/</guid>
       <description>Follow these steps prior to submitting your manuscript:    Read carefully our Instructions for Authors and check whether your research fits scope, conforms to our policy and minimum requirements for consideration.  Choose among the four article types: Original Article, Short Communication, Review (contact us first) and Letter to the Editor.  Follow our formatting standards when preparing the manuscript and associated files such as figures and supplemental materials.</description>
     </item>
     
     <item>
       <title>Access to articles</title>
-      <link>/home/read/</link>
+      <link>/tpp/home/read/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/read/</guid>
+      <guid>/tpp/home/read/</guid>
       <description> 
 Read and download our current collection at SpringerLink
    Full access to our previous SciELO collection
@@ -63,10 +63,10 @@ TPP (2008-14)     Historical Fitopatol. Bras. collection Forthcoming!   </descri
     
     <item>
       <title></title>
-      <link>/home/board/</link>
+      <link>/tpp/home/board/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/board/</guid>
+      <guid>/tpp/home/board/</guid>
       <description>Editorial Board An Editor-in-Chief, two Senior Editors and 26 Section Editors representing 11 countries  Emerson M. Del Ponte Editor-in-Chief Universidade Federal de Viçosa, Brazil   Jorge Badel Senior Editor
 Universidade Federal de Viçosa, Brazil  F Murilo Zerbini Senior Editor
 Universidade Federal de Viçosa, Brazil    Section EditorsOur team of section editors is composed of 26 Editors covering most fields of studies in Plant Pathology and representing 11 countries (last name alphabetical list)</description>

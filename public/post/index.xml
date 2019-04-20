@@ -2,69 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tropical Plant Pathology</title>
-    <link>/post/</link>
+    <link>/tpp/post/</link>
     <description>Recent content in Posts on Tropical Plant Pathology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0200</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tpp/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Updates to our editorial policies and instructions for authors</title>
-      <link>/post/update-instructions/</link>
+      <title>Special Issue on White Mold</title>
+      <link>/tpp/post/special-issue-white-mold/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 -0200</pubDate>
       
-      <guid>/post/update-instructions/</guid>
+      <guid>/tpp/post/special-issue-white-mold/</guid>
+      <description>Excited to announce our second special issue that covers one of the most important plant diseases of vegetables and legumes: white mold, also known as Sclerotinia stem rot. Our February issue presents 11 articles including reviews and original research prepared by speakers of the 16th International Sclerotinia Workshop held in Uberlândia, Brazil, in 2017. Enjoy a free trial to all articles during the next months: https://link.springer.com/journal/40858/44/1
+Read below our Guest Editorial by Dr.</description>
+    </item>
+    
+    <item>
+      <title>Updates to our editorial policies and instructions for authors</title>
+      <link>/tpp/post/update-instructions/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 -0200</pubDate>
+      
+      <guid>/tpp/post/update-instructions/</guid>
       <description>Tropical Plant Pathology will no longer accept first reports of diseases/pathogen in a geographic location. Special cases had been published until now as short communication, including first reports to country, emergent diseases of major economic significance to agriculture, etc.
 We will continue to consider work that is not limited to report new occurrences of a known disease or pathogen but go beyond including description of new taxa and pathogen population and epidemiological aspects using data from more extensive surveys and large sample size.</description>
     </item>
     
     <item>
       <title>TPP among the most rapidly growing Plant Pathology journals based on CiteScore metrics  </title>
-      <link>/post/citescore-2018/</link>
+      <link>/tpp/post/citescore-2018/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 -0300</pubDate>
       
-      <guid>/post/citescore-2018/</guid>
+      <guid>/tpp/post/citescore-2018/</guid>
       <description>The latest assessment of scholarly serial publications was made available in early June with the release of the 2017 CiteScore metrics, based on Scopus citation database. A quick analysis of 11 selected similar journals that cover the broad subject of plant pathology shows TPP among three journals with the most increased score (four positions) during the last five years. The current score is 1.07, which is 50% higher than six years earlier.</description>
     </item>
     
     <item>
       <title>Editorial board meeting during ICPP 2018, Boston </title>
-      <link>/post/editors-meeting-icpp2018/</link>
+      <link>/tpp/post/editors-meeting-icpp2018/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 -0300</pubDate>
       
-      <guid>/post/editors-meeting-icpp2018/</guid>
+      <guid>/tpp/post/editors-meeting-icpp2018/</guid>
       <description>We would like to thank the group of eight Section Editors who could find a time in their busy schedule, during a very big full week meeting in Boston, to sit for an hour and discuss editorial issues. Most of the Editors in the meeting joined TPP late last year, so this was a chance to know them in person and learn from their experiences and answer questions related to the editores duties.</description>
     </item>
     
     <item>
       <title>Meet our new Editor for the Mycology Section, Dr. Priscila Chaverri </title>
-      <link>/post/welcome-priscila-chaverri/</link>
+      <link>/tpp/post/welcome-priscila-chaverri/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 -0300</pubDate>
       
-      <guid>/post/welcome-priscila-chaverri/</guid>
+      <guid>/tpp/post/welcome-priscila-chaverri/</guid>
       <description>Our Mycology section has a new Editor, Dr. Priscila Chaverri who holds a joint appointment with the University of Maryland and University of Costa Rica. Dr. Chaverri, originally from Costa Rica where she majored in Forestry, holds a PhD in Plant Pathology obtained at The Pennsylvania State University. Her research interests involve the taxonomy of endophytes in the tropics and the systematics of fungal pathogens (Nectriaceae) associated with hardwood trees in both temperate and tropical regions.</description>
     </item>
     
     <item>
       <title>Welcome Denita Hadziabdic Guerry, our new Section Editor </title>
-      <link>/post/welcome-denita/</link>
+      <link>/tpp/post/welcome-denita/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 -0300</pubDate>
       
-      <guid>/post/welcome-denita/</guid>
+      <guid>/tpp/post/welcome-denita/</guid>
       <description>Excited to announce Dr. Denita Hadziabdic Guerry as our new Section Editor who will be handling manuscripts in two sections: forest pathology and population biology.
 Denita holds an MSc in Plant pathology and Ph.D. in Population Genetics, both obtained at the University of Tennessee. She is an Assistant Professor in the same University with a professional appointment of 90% Research and 10% Teaching. In research, her areas of expertise are Forest health and forest pathology, population genetics of fungal pathogens, population biology, genetic diversity and conservation of native plants.</description>
     </item>
     
     <item>
       <title>Our new website was launched!</title>
-      <link>/post/first-post/</link>
+      <link>/tpp/post/first-post/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 -0300</pubDate>
       
-      <guid>/post/first-post/</guid>
+      <guid>/tpp/post/first-post/</guid>
       <description>Excited to announce our new modern and responsive website with an improved interface and updated content. We added a news blog section where we will write posts of interest to academic researchers and keep authors and readers up to date with Tropical Plant Pathology.
 Among the several improvements in this version, we will be soon prepare a simplified version of our instructions for authors a FAQ section with the most frequently questions received from the community.</description>
     </item>

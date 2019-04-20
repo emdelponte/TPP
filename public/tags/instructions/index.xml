@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Instructions on Tropical Plant Pathology</title>
-    <link>/tags/instructions/</link>
+    <link>/tpp/tags/instructions/</link>
     <description>Recent content in Instructions on Tropical Plant Pathology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 02 Dec 2018 00:00:00 -0200</lastBuildDate>
     
-	<atom:link href="/tags/instructions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tpp/tags/instructions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Updates to our editorial policies and instructions for authors</title>
-      <link>/post/update-instructions/</link>
+      <link>/tpp/post/update-instructions/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 -0200</pubDate>
       
-      <guid>/post/update-instructions/</guid>
+      <guid>/tpp/post/update-instructions/</guid>
       <description>Tropical Plant Pathology will no longer accept first reports of diseases/pathogen in a geographic location. Special cases had been published until now as short communication, including first reports to country, emergent diseases of major economic significance to agriculture, etc.
 We will continue to consider work that is not limited to report new occurrences of a known disease or pathogen but go beyond including description of new taxa and pathogen population and epidemiological aspects using data from more extensive surveys and large sample size.</description>
     </item>

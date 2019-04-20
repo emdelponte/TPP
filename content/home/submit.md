@@ -23,7 +23,7 @@ weight = 30
 <li> Follow our formatting standards when preparing the manuscript and associated files such as figures and supplemental materials. 
 
 <li> Click on the Editorial Manager logo below or <a href = "http://www.editorialmanager.com/tppa/default.aspx">here</a> to sign up (if first access) and/or login to begin submission</a>.<br><br>
-<a href = "http://www.editorialmanager.com/tppa/default.aspx"><img src = "/img/em-logo.png" style = "margin:20px" width=140px></a>
+<a href = "http://www.editorialmanager.com/tppa/default.aspx"><img src = "/tpp/img/em-logo.png" style = "margin:20px" width=140px></a>
 <br>
 </center>
 </ol>

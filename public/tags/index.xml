@@ -2,76 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tropical Plant Pathology</title>
-    <link>/tags/</link>
+    <link>/tpp/tags/</link>
     <description>Recent content in Tags on Tropical Plant Pathology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tpp/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/tags/academic/</link>
+      <link>/tpp/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>/tpp/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Editorial policy</title>
-      <link>/tags/editorial-policy/</link>
+      <link>/tpp/tags/editorial-policy/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 -0200</pubDate>
       
-      <guid>/tags/editorial-policy/</guid>
+      <guid>/tpp/tags/editorial-policy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instructions</title>
-      <link>/tags/instructions/</link>
+      <link>/tpp/tags/instructions/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 -0200</pubDate>
       
-      <guid>/tags/instructions/</guid>
+      <guid>/tpp/tags/instructions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Section Editors</title>
-      <link>/tags/section-editors/</link>
+      <link>/tpp/tags/section-editors/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 -0300</pubDate>
       
-      <guid>/tags/section-editors/</guid>
+      <guid>/tpp/tags/section-editors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special issue</title>
+      <link>/tpp/tags/special-issue/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 -0200</pubDate>
+      
+      <guid>/tpp/tags/special-issue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Website</title>
-      <link>/tags/website/</link>
+      <link>/tpp/tags/website/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 -0300</pubDate>
       
-      <guid>/tags/website/</guid>
+      <guid>/tpp/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>deep-learning</title>
-      <link>/tags/deep-learning/</link>
+      <link>/tpp/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tpp/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>demo</title>
-      <link>/tags/demo/</link>
+      <link>/tpp/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tpp/tags/demo/</guid>
       <description></description>
     </item>
     

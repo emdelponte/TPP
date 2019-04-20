@@ -15,7 +15,7 @@ weight = 10
 
 +++
 <div class="col2">
-    <img src = "/img/cover_tpp.svg" width=470>  
+    <img src = "/tpp/img/cover_tpp.svg" width=470>  
    <br><bR><br>
 
    

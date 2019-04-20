@@ -8,7 +8,7 @@ Meet our new and experienced Editor for the Mycology section, Dr. Priscila Chave
 """
 math = false
 +++ 
-<img src = "/img/posts/chaverri1.jpg" style = "margin-bottom:30px">
+<img src = "/tpp/img/posts/chaverri1.jpg" style = "margin-bottom:30px">
 
 Our Mycology section has a new Editor, Dr. Priscila Chaverri who holds a joint appointment with the University of Maryland and University of Costa Rica. Dr. Chaverri, originally from Costa Rica where she majored in Forestry, holds a PhD in Plant Pathology obtained at The Pennsylvania State University. Her research interests involve the taxonomy of endophytes in the tropics and the systematics of fungal pathogens (Nectriaceae) associated with hardwood trees in both temperate and tropical regions.
 

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website on Tropical Plant Pathology</title>
-    <link>/tags/website/</link>
+    <link>/tpp/tags/website/</link>
     <description>Recent content in Website on Tropical Plant Pathology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 11 Apr 2017 00:00:00 -0300</lastBuildDate>
     
-	<atom:link href="/tags/website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tpp/tags/website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Our new website was launched!</title>
-      <link>/post/first-post/</link>
+      <link>/tpp/post/first-post/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 -0300</pubDate>
       
-      <guid>/post/first-post/</guid>
+      <guid>/tpp/post/first-post/</guid>
       <description>Excited to announce our new modern and responsive website with an improved interface and updated content. We added a news blog section where we will write posts of interest to academic researchers and keep authors and readers up to date with Tropical Plant Pathology.
 Among the several improvements in this version, we will be soon prepare a simplified version of our instructions for authors a FAQ section with the most frequently questions received from the community.</description>
     </item>

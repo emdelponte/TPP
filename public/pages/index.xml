@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Tropical Plant Pathology</title>
-    <link>/pages/</link>
+    <link>/tpp/pages/</link>
     <description>Recent content in Pages on Tropical Plant Pathology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 20 Nov 2018 00:00:00 -0200</lastBuildDate>
     
-	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tpp/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Instructions for Authors</title>
-      <link>/pages/instructions/</link>
+      <link>/tpp/pages/instructions/</link>
       <pubDate>Tue, 20 Nov 2018 00:00:00 -0200</pubDate>
       
-      <guid>/pages/instructions/</guid>
+      <guid>/tpp/pages/instructions/</guid>
       <description>Last update: 2 December 2018 1. Scope
 Tropical Plant Pathology is an international journal devoted to publishing a wide range of research on fundamental and applied aspects of plant diseases of concern to agricultural, forest and ornamental crops from tropical and subtropical environments. Submissions must report original research that provides new insights into the etiology and epidemiology of plant diseases as well as population biology of plant pathogens, host-pathogen interactions, physiological and molecular plant pathology, and strategies to promote crop protection.</description>
     </item>
